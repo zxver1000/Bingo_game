@@ -23,7 +23,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/78923992/207078843-5fd6da05-f122-4ab2-b77e-3442f3ac50e4.png  width="200" height="200"/>
+<img src="https://user-images.githubusercontent.com/78923992/207078843-5fd6da05-f122-4ab2-b77e-3442f3ac50e4.png  width="200px" height="200px"/>
 - 세라인에 있는 모든 점들에게 점수를 부여합니다
 
 
