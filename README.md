@@ -34,7 +34,7 @@
 
 
 ![image](https://user-images.githubusercontent.com/78923992/207078900-267c94af-d557-4ab6-a1b2-c9477228a4c0.png)
-- 모든 점에게 점수를 부여하고 O표시가 되어있지 않고 max점수를 가진 점들만 확인 합니다
+- 모든 점에게 점수를 부여하고 체크가 되지않고 max점수를 가진 점들만 확인 합니다
 - max점수를 가진 점마다 Row,Column,Diagonal에 O표시가 몇 개 있는지 확인하고 Row,Column,Diagonal 개수의 Max값을 구합니다.
 
 
