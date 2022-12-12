@@ -15,7 +15,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/78923992/207078779-c4dbefe7-0696-4c0b-b8e5-5b9c915fdafc.png"  width="200" height="200"/>
+<img src="https://user-images.githubusercontent.com/78923992/207078779-c4dbefe7-0696-4c0b-b8e5-5b9c915fdafc.png"  width="300" height="300"/>
 - Computer_board가 (0,0)과 (1,1)이 체크 되어있을 때를 가정합니다
 - (0,0)과 빙고가 될 수 있는 라인에 있는 점들은 모두 점수를 부여합니다
 - (0,0)과 빙고가 될 수 있는 라인은 세라인이 가능하므로
@@ -23,7 +23,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/78923992/207078843-5fd6da05-f122-4ab2-b77e-3442f3ac50e4.png"  width="200" height="200">
+<img src="https://user-images.githubusercontent.com/78923992/207078843-5fd6da05-f122-4ab2-b77e-3442f3ac50e4.png"  width="300" height="300">
 
 
 
